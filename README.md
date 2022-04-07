@@ -1,6 +1,7 @@
-# kube-notes
-A collection of miscellaneous notes as I read through [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action) by Marko Luksa.
+# tldr
 
-This is **not** an exhaustive record of every chapter as there are many things in this book that are not new to me.
+I read some books so you don't have to!
 
-* [Chapter 01](./chapter-01.md)
+- [Non-Fiction](non-fiction)
+  - [Digital Minimalism](non-fiction/digital-minimalism.md)
+  - [Kubernetes in Action](non-fiction/kubernetes-in-action.md)
